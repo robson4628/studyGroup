@@ -23,5 +23,9 @@ Outras reuniões podem acontecer dependendo do tema, empolgação e disposição
 
 Lógica de programação!!!
 
-**Lembrete:**
+**Lembretes:**
 
+- Encontrar o material para a próxima reunião;
+- Em cada reunião, um responsável pela transmissão e conferir comentários.
+
+**Proposta de reunião intermediária: reboot da mesa redonda de open science**
