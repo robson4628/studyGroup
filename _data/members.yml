@@ -24,10 +24,13 @@
   github: trstno1
   interests:
 
-- name: Jose Nailson
-  affiliation: 
+- name: Jose Nailson Barros Santos
+  affiliation: UFRPE
   github: Jnailson
   interests:
+    - Biodiversidade
+    - Diversidade Funcional e Filogenética
+    - Exploração de dados com R
 
 - name: Bruno Pereira
   affiliation: UFAL
