@@ -10,9 +10,9 @@
   affiliation: UFAL
   github: arthurfilipe
   interests:
-    - R
-    - Open Science
-    - Bioestatística
+    - R e Programação
+    - Open Science e Ecologia
+    - Bioestatística e Evolução + RPG
 
 - name: Carla Britto
   affiliation: UFAL
@@ -39,11 +39,17 @@
   affiliation: UFAL
   github: Brnpereira
   interests:
+    - R e Python
+    - Open Science
+    - Ecologia
 
 - name: Fernanda Costa
   affiliation: UFMG
   github: fecostabio
   interests:
+    - Open Science
+    - R
+    - Ecologia de Comunidades
 
 - name: Lucas Paolucci
   affiliation: UFV
@@ -54,6 +60,9 @@
   affiliation: UFAL
   github: TainaGuedes
   interests:
+    - Open Science
+    - Ornitologia
+    - Biogeografia e Evolução
 
 - name: Priscilla Cruz
   affiliation: 
@@ -83,3 +92,34 @@
   interests:
     - R
     - Open Science
+
+- name: Gracielle Higino
+  affiliation: UFG
+  github: graciellehigino
+  interests:
+    - Ecologia com números
+    - Open Science de guerrilha
+
+- name: Karla Paresque
+  affiliation: UFPE
+  github: kauparesque
+  interests:
+    - Open Science
+    - R
+    - Programação
+
+- name: Robson G Santos
+  affiliation: UFAL
+  github: Robsongsantos
+  interests:
+    - Ecologia
+    - Evolução
+    - Conservação e “Biologia no Antropoceno”
+
+- name: Marcela Fonseca Lago da Costa
+  affiliation: UFAL
+  github: cecelago
+  interests:
+    - Open Science e R
+    - Bioestatística e Programação
+    - Ecologia e Evolução
