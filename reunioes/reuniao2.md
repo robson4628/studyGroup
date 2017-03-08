@@ -2,5 +2,8 @@
 
 **Aprendendo lógica de programação**
 
-Em construção, aos poucos atualizamos aqui ;)
+Vamos conversar sobre lógica de programação e um pouquinho de Python. ;)
 
+Veja o material de estudo aqui: https://github.com/marcosvital/studyGroup/issues/7
+
+Depois atualizaremos este espaço com informações sobre a reunião.
