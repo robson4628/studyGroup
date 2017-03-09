@@ -17,3 +17,6 @@ rascunho durante a reunião
 - todos podem (e devem) editar os relatos das reuniões dentro da psta reuniões (mandem fotos também)
 - após cada reunião, dentro de uma semana marcamos a reunião temática
 
+A próxima reunião temática será comandada pelo Arthur, com uma aula prática sobre R e Mapas.
+Será no dia 22-03, às 14:00 (quarta-feira) no LEQ (ou sala, avisamos depois).
+O Arthur vai criar um issue para falar do que vocês precisam para acompanhar.
