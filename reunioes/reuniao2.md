@@ -15,4 +15,5 @@ rascunho durante a reunião
 - para a próxima: um texto sobre lógica de programação, e um desafio de Python (Fábio, aceitamos sugestões)
 - entre cada reunião, decidir e bater o martelo sobre o material para a próxima
 - todos podem (e devem) editar os relatos das reuniões dentro da psta reuniões (mandem fotos também)
+- após cada reunião, dentro de uma semana marcamos a reunião temática
 
