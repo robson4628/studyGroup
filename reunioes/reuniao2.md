@@ -1,12 +1,11 @@
 # Reunião 2
+Realizada no dia 09-03-2017, às 14:00 (até umas 16:00) no LEQ-UFAL.
 
 **Aprendendo lógica de programação**
 
-Vamos conversar sobre lógica de programação e um pouquinho de Python. ;)
+Veja sobre o material de estudo aqui: https://github.com/marcosvital/studyGroup/issues/7
 
-Veja o material de estudo aqui: https://github.com/marcosvital/studyGroup/issues/7
-
-Depois atualizaremos este espaço com informações sobre a reunião.
+Aos poucos atualizaremos este espaço com informações sobre a reunião.
 
 ***
 
@@ -19,4 +18,6 @@ rascunho durante a reunião
 
 A próxima reunião temática será comandada pelo Arthur, com uma aula prática sobre R e Mapas.
 Será no dia 22-03, às 14:00 (quarta-feira) no LEQ (ou sala, avisamos depois).
-O Arthur vai criar um issue para falar do que vocês precisam para acompanhar.
+O Arthur vai criar um issue para falar do que vocês precisam para acompanhar, aqui: https://github.com/marcosvital/studyGroup/issues/9
+
+A reunião foi transmitida ao vivo, e o vídeo está aqui: https://www.youtube.com/watch?v=INyYsABwjKA
