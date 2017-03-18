@@ -1,4 +1,4 @@
-# Reunião 2
+# Reunião 3
 Realizada no dia 09-03-2017, às 14:00 (até umas 16:00) no LEQ-UFAL.
 
 **Aprendendo lógica de programação**
