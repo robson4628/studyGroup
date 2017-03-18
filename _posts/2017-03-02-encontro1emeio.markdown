@@ -1,5 +1,5 @@
 ---
-title: Encontro "um e meio" - mesa redonda
+title: Segundo encontro - mesa redonda
 text: Vamos discutir mais sobre Open Science!
 location: no ICBS UFAL, local a confirmar
 link: https://github.com/marcosvital/studyGroup/blob/gh-pages/reunioes/Reuniao1emeio.md
