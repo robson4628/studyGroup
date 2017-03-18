@@ -2,7 +2,7 @@
 title: Quarto encontro do grupo
 text: Mapas no R com o Arthur Filipe! 
 location: LEQ - UFAL, no ICBS
-link: https://github.com/marcosvital/studyGroup/blob/gh-pages/reunioes/reuniao2.md
+link: https://github.com/marcosvital/studyGroup/blob/gh-pages/reunioes/reuniao4.md
 date: 2017-03-22
 startTime: '14:00'
 endTime: '17:00'
