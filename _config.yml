@@ -18,9 +18,9 @@ language: pt
 # Optional Configuration
 # None of these things need to be changed - but feel free!
 
-titleBackground: "https://cantinhodor.files.wordpress.com/2017/03/grupo-de-estudos-1.png"
+titleBackground: "https://cantinhodor.files.wordpress.com/2017/03/grupo-de-estudos-2.png"
 headlineSmall: "Sejam bem vindos!"
-headlineMain: "Junte-se a nós, e vamos aprender"
+headlineMain: ""
 
 # Setup Google Calendar
 # Usage:
