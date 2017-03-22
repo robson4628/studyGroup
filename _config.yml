@@ -18,7 +18,7 @@ language: pt
 # Optional Configuration
 # None of these things need to be changed - but feel free!
 
-titleBackground: "https://cantinhodor.files.wordpress.com/2017/03/grupo-de-estudos-5.png"
+titleBackground: "https://s3-us-west-2.amazonaws.com/webmaker-kits/learning%402x.jpg"
 headlineSmall: "Sejam bem vindos!"
 headlineMain: ""
 
