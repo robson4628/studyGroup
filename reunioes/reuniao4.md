@@ -4,3 +4,5 @@
 Nesta reunião o Arthur vai nos dar uma aula prática sobre como usar o R como SIG e fazer mapas!
 
 Leve o seu computador e divirta-se!
+
+Mais informações: https://github.com/marcosvital/studyGroup/issues/9
