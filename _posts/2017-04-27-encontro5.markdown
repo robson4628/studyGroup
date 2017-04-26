@@ -1,0 +1,10 @@
+---
+title: Quinto encontro do grupo
+text: Vamos estudar Python! 
+location: LEQ - UFAL, no ICBS
+link: https://github.com/marcosvital/studyGroup/blob/gh-pages/reunioes/reuniao5.md
+date: 2017-04-27
+startTime: '14:00'
+endTime: '17:00'
+
+---
